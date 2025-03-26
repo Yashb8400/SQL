@@ -1,7 +1,3 @@
-Here's a well-structured GitHub project description for your bookstore SQL analysis project:
-
----
-
 # 📚 Bookstore Sales Analysis using SQL  
 
 ## 📌 Project Overview  
